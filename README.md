@@ -1,4 +1,4 @@
 # Searching-Sorting-linked-List
-|| In searching:- linear and binery
-|| In Sorting :- bubble, slection,insertion sort
-|| in linked list :- singly,doubly linked list
+|| In searching:- Linear and Binery
+|| In Sorting :- Bubble, Slection,Insertion sort
+|| In Linked Llist :- Singly,Doubly Linked list

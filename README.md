@@ -11,3 +11,11 @@ This repository provides implementations for:
 These implementations can help with understanding core algorithmic logic, interview preparation, or as reference code for educational projects.
 
 ## 🚀 Getting Started
+
+### How to Run / Use
+
+1. Clone the repo:
+
+   ```bash
+   git clone https://github.com/Avinash-Chande/Searching-Sorting-Linked-List.git
+   cd Searching-Sorting-Linked-List

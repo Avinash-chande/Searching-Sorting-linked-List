@@ -10,7 +10,6 @@ This repository provides implementations for:
 
 These implementations can help with understanding core algorithmic logic, interview preparation, or as reference code for educational projects.
 
-## 🚀 Getting Started
 
 ### How to Run / Use
 

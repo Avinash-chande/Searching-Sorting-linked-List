@@ -12,10 +12,3 @@ These implementations can help with understanding core algorithmic logic, interv
 
 ## 🚀 Getting Started
 
-### How to Run / Use
-
-1. Clone the repo:
-
-   ```bash
-   git clone https://github.com/Avinash-Chande/Searching-Sorting-Linked-List.git
-   cd Searching-Sorting-Linked-List

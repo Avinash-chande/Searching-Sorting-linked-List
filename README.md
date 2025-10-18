@@ -8,7 +8,7 @@ This repository provides implementations for:
 - **Sorting algorithms** — e.g. Bubble Sort, Insertion Sort, Quick Sort, Merge Sort, Heap Sort  
 - **Linked List data structures & operations** — singly linked list, doubly linked list, and typical operations such as insertion, deletion, reversal, merging, etc.
 
-These implementations can help with understanding core algorithmic logic, interview preparation, or as reference code for educational projects.
+These implementations can help with understanding core algorithmic logic, interview preparation, or as reference code for educational projects
 
 
 

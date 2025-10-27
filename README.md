@@ -2,7 +2,7 @@
 
 ## 🧠 About the Project
 
-This repository provides implementations for:
+This repository provides implementations for:-
 
 - **Searching algorithms** — e.g. Linear Search, Binary Search  
 - **Sorting algorithms** — e.g. Bubble Sort, Insertion Sort, Quick Sort, Merge Sort, Heap Sort  

@@ -25,7 +25,7 @@ It is ideal for algorithm exploration, interview prep, educational reference, or
   - Typical operations:  
     - Insertion (at head, tail, given position)  
     - Deletion (by value, by position)  
-    - Reversal  
+    - Reversal  .
 
 ---
 

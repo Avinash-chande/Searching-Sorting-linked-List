@@ -1,6 +1,6 @@
 # Searching & Sorting Algorithms + Linked List Operations
 
-This repository contains implementations of common searching and sorting algorithms, along with various linked list data-structure operations, all written in C++.  
+This repository contains implementations of common searching and sorting algorithms, along with various linked list data-structure operations, all written in C++
 It is ideal for algorithm exploration, interview prep, educational reference, or stepping into data structures with hands-on code.
 
 ---

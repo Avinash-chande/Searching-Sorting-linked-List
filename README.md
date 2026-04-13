@@ -39,6 +39,6 @@ It is ideal for algorithm exploration, interview prep, educational reference, or
 
 ## 🚀 How to Use
 
-1. Clone the repository:-
+1. Clone the repository:
    ```bash:
    git clone https://github.com/Avinash-chande/Searching-Sorting-linked-List.git

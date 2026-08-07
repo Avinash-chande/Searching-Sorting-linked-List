@@ -27,7 +27,7 @@ It is ideal for algorithm exploration, interview prep, educational reference, or
     - Deletion (by value, by position)  
     - Reversal.
 
----
+-----
 
 ## 🔧 Why this project exists
 
@@ -35,7 +35,7 @@ It is ideal for algorithm exploration, interview prep, educational reference, or
 - To help students, learners, and interview-preparers understand algorithmic logic in C++.  
 - To serve as a reference or stepping stone for larger projects involving data structures or algorithmic thinking.
 
----
+------
 
 ## 🚀 How to Use
 

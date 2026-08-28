@@ -36,9 +36,3 @@ It is ideal for algorithm exploration, interview prep, educational reference, or
 - To serve as a reference or stepping stone for larger projects involving data structures or algorithmic thinking.
 
 ------
-
-## 🚀 How to Use
-
-1. Clone the repository:
-   ```bash:
-   git clone https://github.com/Avinash-chande/Searching-Sorting-linked-List.git
